@@ -7,9 +7,7 @@ OneDrive sync for stable offline access.
 
 SharePoint URL: `https://uniwa.sharepoint.com/sites/ORG-UNAZ22191C091/`
 
-Local OneDrive sync folder: `C:\Users\00060951\UWA\<site-display-name> - Documents`
-
-> Update the path above once the OneDrive sync is confirmed and the folder name is known.
+Local OneDrive sync folder: `C:\Users\00060951\UWA\ORG Uni-IT Strategy, Architecture & Data - Documents`
 
 ## Destination
 
@@ -28,7 +26,7 @@ Run manually:
 
 ```powershell
 python "C:\Users\00060951\Project_Sharepoint_Clone\sp_clone.py" `
-    --source "C:\Users\00060951\UWA\<site-display-name> - Documents" `
+    --source "C:\Users\00060951\UWA\ORG Uni-IT Strategy, Architecture & Data - Documents" `
     --dest "C:\Users\00060951\Project_Org_Clone"
 ```
 

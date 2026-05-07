@@ -1,2 +1,14 @@
 sync_manifest.json
 logs/
+
+# Cloned SharePoint content
+00_Legacy Archived/
+Architecture/
+Business Analysis/
+Business Intelligence and Analytics/
+Data and AI/
+General/
+IT & Data Strategy 2025-26/
+IT Portfolio Financial Report/
+Portfolio/
+Technology Strategy - 2022/
